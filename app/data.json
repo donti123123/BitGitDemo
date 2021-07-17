@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Shoes",
+      "count": 150,
+      "price": 555.9
+    },
+    {
+      "id": 2,
+      "title": "Dress",
+      "count": 300,
+      "price": 99.99
+    },
+    {
+      "id": 3,
+      "title": "Pants",
+      "count": 99,
+      "price": 66.99
+    },
+    {
+      "id": 4,
+      "title": "Pants",
+      "count": 185,
+      "price": 88.99
+    },
+    {
+      "title": "Dress50",
+      "count": 300,
+      "price": 99.99,
+      "id": 5
+    },
+    {
+      "title": "Dress98",
+      "count": 300,
+      "price": 99.99,
+      "id": 6
+    },
+    {
+      "title": "Dress43",
+      "count": 300,
+      "price": 99.99,
+      "id": 7
+    },
+    {
+      "title": "Dress50",
+      "count": 300,
+      "price": 99.99,
+      "id": 8
+    },
+    {
+      "title": "Dress27",
+      "count": 300,
+      "price": 99.99,
+      "id": 9
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "text": "Labas pasauli!",
+      "productId": 6
+    },
+    {
+      "id": 2,
+      "text": "Sudie pasauli!",
+      "productId": 6
+    }
+  ]
+}
